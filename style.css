@@ -1,0 +1,47 @@
+body {
+    background-color: antiquewhite;
+}
+
+.table {
+    border: 1px solid gray;
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+.photo {
+    width: 250px;
+    height: 300px;
+    margin-left: 15px;
+    padding: 15px;
+}
+
+.product {
+    color: blue;
+     margin-left: 30px;
+}
+
+.www {
+    color: blue;
+    margin-left: 30px;
+}
+
+.by {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border: none;
+}
+
+p {
+  margin-left: 30px;   
+}
+
+.buy {
+   /* border: 1px solid red;*/
+    width: 55px;
+    height: 40px;
+    margin-left: 80px;
+    background-color: blue;
+    color: white;
+}
